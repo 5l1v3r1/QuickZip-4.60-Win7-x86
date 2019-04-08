@@ -9,9 +9,6 @@ Exploit de corelanc0d3r recreado en Windows 7 32 bits con ciertos cambios, desar
 
 **Thanks to:**
   
-  CorelanC0d3t (https://twitter.com/corelanc0d3r), ya que fué el primero en publicar el exploit para maquinas xp y explicarlo.
+  CorelanC0d3r (https://twitter.com/corelanc0d3r), ya que fué el primero en publicar el exploit para maquinas xp y explicarlo.
 
   knapsy (https://twitter.com/theknapsy?lang=es) por explicar detalladamente la explotacion en windows 7 x64
-
-
-**Explicacion y escritura del exploit:**
